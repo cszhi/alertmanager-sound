@@ -22,8 +22,8 @@ warning:  anxi Ceph状态: HEALTH_WARN
 warning:  sichuan Ceph状态: HEALTH_WARN
 
 ==========================================
-2019-10-17 15:14:35 发现普通告警，播放声音
- Everything is OK
+2019-10-17 15:14:35 Everything is OK
+
 
 距离下一次检查还有15秒
 ```
